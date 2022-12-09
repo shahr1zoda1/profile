@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+h1, h2 {
+    color: darkgray;
+}
+h2 {
+    margin-bottom: 2rem;
+}
+hr {
+    border: none;
+    border-bottom: .5rem dotted darkgray;
+    width: 5rem;
+    margin: 3rem auto;
+}
+table {
+    margin: auto;
+}
+td {
+    padding: 1rem;
+}
+.header p {
+    width: 18rem;
+}
+.header {
+    background-color: gray;
+    padding: 2rem;
+}
+.main {
+    background-color: ivory;
+    padding: 1rem;
+}
+.main, .footer {
+    text-align: center;
+}
+.footer {
+    padding: 2rem;
+    background-color: gray;
+}
+.footer a {
+    margin: 0 1rem;
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
